@@ -150,6 +150,7 @@ class BinarySearchTree
         binarySearchTree.insert(60);
         binarySearchTree.insert(80);
         Node findNode = binarySearchTree.findNode(binarySearchTree.root, 70);
+        System.out.println("Gittest");
 
       /*  System.out.println("Inorder traversal of the given binarySearchTree");
         binarySearchTree.inorder();
